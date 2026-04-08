@@ -3,7 +3,7 @@
 Подствечивает текст цветом и дополнительно обрезает начало текста для вывода подсветки в видимой части блока.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NedVill/js-search-highlight/main/demo/assets/images/image.png" width="200">
+  <img src="https://raw.githubusercontent.com/NedVill/js-search-highlight/main/demo/assets/images/image.png">
 </p>
 
 ```
