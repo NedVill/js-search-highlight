@@ -1,0 +1,13 @@
+.wrapper {
+  width: 500px;
+}
+
+.innerWrapper {
+  min-height: 160px;
+}
+
+.crop {
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
